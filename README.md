@@ -6,16 +6,16 @@ or services online.
 
 This is the basic pages/features which are necessary for my an e-commerce
 website:
-Home
-Product
-Product_view
-Caterogy
-Cart
-Checkout
-Order Confermation
-About Us
-Contact Us
-Serach
+Home,
+Product,
+Product_view,
+Caterogy,
+Cart,
+Checkout,
+Order Confermation,
+About Us,
+Contact Us,
+Serach.
 
 I have used HTML, CSS,JavaScript & Bootstrap for designing the project.
 
